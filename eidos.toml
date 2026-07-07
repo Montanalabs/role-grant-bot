@@ -1,0 +1,7 @@
+name = "role-grant-bot"
+version = "0.1.0"
+description = "Role-grant bot"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
